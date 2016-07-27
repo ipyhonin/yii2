@@ -31,7 +31,6 @@
 /.travis.yml        export-ignore
 /phpunit.xml.dist   export-ignore
 /tests              export-ignore
-/docs               export-ignore
 /build              export-ignore
 
 # Avoid merge conflicts in CHANGELOG
